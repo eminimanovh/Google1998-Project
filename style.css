@@ -1,0 +1,47 @@
+.img {
+    width: 733px;
+    height: 115px;
+    margin: 0 auto;
+}
+.sea {
+    text-align: center;
+}
+.inputs {
+    text-align: center;
+}
+
+.search-box {
+    width: 315px;
+    height: 15px;
+    background-color:white;
+}
+.container {
+    width: 1155.69px;
+    height: 67px;
+    background-color: #EEEEEE;
+    margin: 0 auto; 
+}
+.ort {
+    text-align: center;
+}
+.container2 {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+}
+.box-2 {
+    text-align: center;
+}
+
+.box-3 {
+    text-align: center;
+}
+
+p + .email {
+    width: 315px;
+    height: 15px;
+}
+
+.footer {
+    text-align: center;
+}
